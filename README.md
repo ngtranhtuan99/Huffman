@@ -1,5 +1,5 @@
 # Huffman
-Giải thuật nén dữ liệu. CTDL 2
+Giải thuật nén dữ liệu.
 Nguyễn Trương Anh Tuấn . 1712197
 
 ĐỒ ÁN CTDL&GT 2:
